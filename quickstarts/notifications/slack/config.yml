@@ -1,0 +1,36 @@
+# Name of the quickstart (required)
+name: slack
+
+# Displayed in the UI (required)
+title: Slack
+
+# Long-form description of the quickstart (required)
+description: |
+  Slack is a proprietary business communication platform. You can send New Relic notifications-messages to your Slack channels.
+
+  For more information or support, please go to https://docs.newrelic.com/docs/alerts-applied-intelligence/notifications/notification-integrations/#slack
+
+
+# Displayed in search results and recommendations. Summarizes a packs functionality.
+summary: |
+  Send New Relic notifications-messages to your Slack channels.
+
+# Support level: New Relic | Verified | Community (required)
+level: Verified
+
+# Authors of the quickstart (required)
+authors:
+  - Matan Moser (New Relic)
+  - Ismail Azam (New Relic)
+
+# Keywords for filtering / searching criteria in the UI
+keywords:
+  - Slack
+  - notifications
+  - AIOps
+  - Incident Intelligence
+  - Destinations
+
+# Content / Design
+logo: slack-logo.png
+website: https://www.slack.com/

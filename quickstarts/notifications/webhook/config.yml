@@ -1,0 +1,36 @@
+# Name of the quickstart (required)
+name: webhook
+
+# Displayed in the UI (required)
+title: Webhook
+
+# Long-form description of the quickstart (required)
+description: |
+  A webhook in web development is a method of augmenting or altering the behavior of a web page or web application with custom callbacks. You can use the webhook notifier to send the notification messages to any endpoint you like.
+
+  For more information or support, please go to https://docs.newrelic.com/docs/alerts-applied-intelligence/notifications/notification-integrations/#webhook
+
+
+# Displayed in search results and recommendations. Summarizes a packs functionality.
+summary: |
+  Use the webhook notifier to send the notification messages to any endpoint you like.
+
+
+# Support level: New Relic | Verified | Community (required)
+level: Verified
+
+# Authors of the quickstart (required)
+authors:
+  - Matan Moser (New Relic)
+  - Ismail Azam (New Relic)
+
+# Keywords for filtering / searching criteria in the UI
+keywords:
+  - Webhook
+  - notifications
+  - AIOps
+  - Incident Intelligence
+  - Destinations
+
+# Content / Design
+logo: webhook-logo.png
